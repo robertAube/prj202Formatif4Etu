@@ -9,6 +9,7 @@ import java.util.*;
 public class BabyNameCSV {
     private Map<String, Integer> mapCompteurPrenom;
     private Set<String> setEthnie;
+    private List<String> listEthnie;
 
     public BabyNameCSV() {
         //todo initialiser les données
