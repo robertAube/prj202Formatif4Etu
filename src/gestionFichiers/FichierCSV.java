@@ -6,6 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /**
+ * 420-202-RE Traitement de données orienté objet
+ * Cette classe ne devrait pas être modifiée.
  * @author Robert Aubé
  */
 public abstract class FichierCSV {

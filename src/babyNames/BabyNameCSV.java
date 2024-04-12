@@ -9,11 +9,10 @@ import java.util.*;
 public class BabyNameCSV {
     private Map<String, Integer> mapCompteurPrenom;
     private Set<String> setEthnie;
-    private List<String> listEthnie;
 
     public BabyNameCSV() {
-        //todo initialiser les données
-        //todo lire fichier csv (une ligne)
+        //todo initialiser Map<String, Integer> mapCompteurPrenom avec le csv
+        //todo initialiser Set<String> setEthnie avec le csv
         System.out.println(this);
     }
 
